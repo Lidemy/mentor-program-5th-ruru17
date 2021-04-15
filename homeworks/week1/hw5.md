@@ -3,6 +3,9 @@
 
 ## 假設我今天去 Google 首頁搜尋框打上：JavaScript 並且按下 Enter，請說出從這一刻開始到我看到搜尋結果為止發生在背後的事情。
 
+### 以抽象概念理解
+將電腦上的作業系統、電腦的主機、瀏覽器看成是一層一層疊加上去的畫面
 
+![流程圖](https://static.coderbridge.com/img/lyongru/2176098ef403466386ffb18f6f7ed672.png)
 
 ## 請列舉出 3 個「課程沒有提到」的 command line 指令並且說明功用
