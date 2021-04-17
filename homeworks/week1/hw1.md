@@ -37,6 +37,7 @@
 ### 交作業
 
 * 先在 github上選取 PR 請求後，複製上方的網址 (待會貼上 PR )
+![](https://static.coderbridge.com/img/lyongru/03662ee12f094ba490686c6c95ede332.png)
 
 * 交作業地方
 ![](https://static.coderbridge.com/img/lyongru/14169a32d77040ac8cef7345241771d1.png)
